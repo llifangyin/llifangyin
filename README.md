@@ -1,16 +1,16 @@
-### Hi there 👋
+# 前端开发者 👨‍💻
 
-<!--
-**llifangyin/llifangyin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+我是一名多年来致力于Web前端开发的工程师,主要使用Vue、React等流行框架,拥有丰富的界面开发和交互实现经验。近期正专注于低代码平台和可视化领域的研究与实践,对各种新兴技术充满好奇与兴趣。我渴望通过持续学习与技术实践,不断充实自己、开拓视野,成长为出色的前端开发专家。
 
-Here are some ideas to get you started:
+## 最近计划
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [ ] React Hook ⚛️
+- [ ] Redux基础使用 📦  
+- [ ] Vue3源码分析 🔍
+- [ ] ES6语法研学 📚
+- [ ] MySQL数据库的基础使用 💾
+- [ ] TypeScript研学 ⌨️
+
+## 已完成  
+
+- [x] git的详细使用 💄
