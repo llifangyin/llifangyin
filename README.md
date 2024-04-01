@@ -4,7 +4,7 @@
 
 ## 最近计划
 
-- [ ] React Hook ⚛️
+- [x] React Hook ⚛️
 - [ ] Redux基础使用 📦  
 - [ ] Vue3源码分析 🔍
 - [ ] ES6语法研学 📚
