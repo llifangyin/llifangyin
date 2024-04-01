@@ -5,7 +5,7 @@
 ## 最近计划
 
 - [x] React Hook ⚛️
-- [ ] Redux基础使用 📦  
+- [x] Redux基础使用 📦  
 - [ ] Vue3源码分析 🔍
 - [ ] ES6语法研学 📚
 - [ ] MySQL数据库的基础使用 💾
